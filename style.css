@@ -105,7 +105,7 @@ footer {
   transform: scale(1.05);
 }
 .product h3 {
-  color:white;
+  color:black;
   font-size: 30px;
   margin: 20px 0;
 }
@@ -113,6 +113,7 @@ footer {
   font-size: 20px;
   line-height: 1.6em;
 }
+
 .menu {
   display: none;
 }
