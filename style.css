@@ -76,6 +76,28 @@ header a:hover {
   font-size: 20px;
   line-height: 1.8em;
 }
+.shop {
+  display: flex;
+}
+.shop img {
+  width: 50%;
+}
+.info {
+  width: 50%;
+  background-position: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.info h2 {
+  font-size: 40px;
+  margin-bottom: 30px;
+}
+.info p {
+  text-align: center;
+  line-height: 2em;
+}
 footer {
   background-color: #000000;
   color: #b7b7b7;
